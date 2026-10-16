@@ -37,7 +37,7 @@ El código de este repositorio es una prueba de concepto. He construido la plata
 
 ## 👨‍💻 Sobre el Fundador
 **Damian Fabricio Macancela**  
-*Ingeniero & Especialista en Ciberseguridad*  
+*Estudiante de Ciberseguridad (ITSA) y Derecho (UTPL)*  
 Contactos Comerciales / Auditorías: [Conoce al fundador](https://zerotrust-redact.vercel.app/fundador)
 
 ---
